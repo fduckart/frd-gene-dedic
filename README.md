@@ -1,8 +1,20 @@
 ### Dedication Process Support System
 
+**Overview**
+
 A Visual Basic search application built for GE NE in late 1996.
 
-##### Screenshots of various windows.
+**Technology**
+
+The program was developed on Windows NT 4 using
+Microsoft Visual Basic version.
+
+The backend database was Microsoft Access, with some
+passthrough queries to an Oracle database.
+
+The help files were created using Doc-To-Help for Windows.
+
+**Screenshots of various windows**
 
 ![Step B](images/LOGIN.BMP)
 ![Step C](images/MAIN.BMP)
